@@ -1,0 +1,82 @@
+[
+  { 
+    "id": 1, 
+    "ad": "Levent", 
+    "soyad": "Dalkan", 
+    "bolum": "Göz Hastalıkları", 
+    "aciklama": "Göz hastalıkları konusunda uzman, 15 yıllık deneyim.", 
+    "resim": "/images/doktor1.jpg" 
+  },
+  { 
+    "id": 2, 
+    "ad": "Eda", 
+    "soyad": "Altıntaş", 
+    "bolum": "Kardiyoloji", 
+    "aciklama": "Kalp hastalıkları konusunda uzman, 10 yıllık deneyim.", 
+    "resim": "/images/doktor2.jpg" 
+  },
+  { 
+    "id": 3, 
+    "ad": "Mehmet", 
+    "soyad": "Kara", 
+    "bolum": "Çocuk Sağlığı", 
+    "aciklama": "Çocuk hastalıkları konusunda uzman, 8 yıllık deneyim.", 
+    "resim": "/images/doktor3.jpg" 
+  },
+  { 
+    "id": 4, 
+    "ad": "Fatma", 
+    "soyad": "Yurt", 
+    "bolum": "Ortopedi", 
+    "aciklama": "Ortopedi konusunda uzman, 12 yıllık deneyim.", 
+    "resim": "/images/doktor4.jpg" 
+  },
+  { 
+    "id": 5, 
+    "ad": "Ali", 
+    "soyad": "Öztürk", 
+    "bolum": "Göz Hastalıkları", 
+    "aciklama": "Göz hastalıkları konusunda uzman, 7 yıllık deneyim.", 
+    "resim": "/images/doktor5.jpg" 
+  },
+  { 
+    "id": 6, 
+    "ad": "Zeynep", 
+    "soyad": "Kara", 
+    "bolum": "Kardiyoloji", 
+    "aciklama": "Kalp hastalıkları konusunda uzman, 6 yıllık deneyim.", 
+    "resim": "/images/doktor6.jpg" 
+  },
+  { 
+    "id": 7, 
+    "ad": "Hasan", 
+    "soyad": "Yılmaz", 
+    "bolum": "Çocuk Sağlığı", 
+    "aciklama": "Çocuk hastalıkları konusunda uzman, 5 yıllık deneyim.", 
+    "resim": "/images/doktor7.jpg" 
+  },
+  { 
+    "id": 8, 
+    "ad": "Elif", 
+    "soyad": "Yurt", 
+    "bolum": "Ortopedi", 
+    "aciklama": "Ortopedi konusunda uzman, 14 yıllık deneyim.", 
+    "resim": "/images/doktor8.jpg" 
+  },
+  { 
+    "id": 9, 
+    "ad": "İsmail", 
+    "soyad": "Özhan", 
+    "bolum": "Göz Hastalıkları", 
+    "aciklama": "Göz hastalıkları konusunda uzman, 9 yıllık deneyim.", 
+    "resim": "/images/doktor9.jpg" 
+  },
+  { 
+    "id": 10, 
+    "ad": "Ali Kenan", 
+    "soyad": "Kara", 
+    "bolum": "Kardiyoloji", 
+    "aciklama": "Kalp hastalıkları konusunda uzman, 11 yıllık deneyim.", 
+    "resim": "/images/doktor10.jpg" 
+  }
+]
