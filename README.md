@@ -1,4 +1,4 @@
-# hastane_randevu_sistemi_flutter
+# Hastane Randevu Sistemi Flutter
 
 Projeyi canlı görmek için linke tıklayabilirsiniz ;  
 
